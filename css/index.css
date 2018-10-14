@@ -1,0 +1,60 @@
+section{
+	max-width: 1170px;
+	width: 100%;
+}
+
+/*მთავარი გვერდის სტილები ==>>*/
+
+.wrapper{
+ 	margin-top: 125px;
+    
+ }
+ .title-h4{
+ 	font-weight: bold;
+ 	font-family: roboto;
+ }
+ .title-h4 span{
+ 	text-transform: uppercase;
+ 	border-right: 1px solid black;
+ 	padding-right: 10px;
+ 	margin-right: 10px;
+ 	font-size: 24px;
+ }
+ .wrapper-box{
+ 	margin-top: 30px;
+ 	margin-bottom: 65px;
+ }
+ .box{
+ 	background: #F2F2F2;
+ 	padding: 15px 30px;
+ 	display: inline-block;
+ 	width: 570px;
+ }
+ .box:first-child{
+ 	margin-right: 15px;
+ }
+ .title-h5{
+ 	color: #3D58A6;
+ 	margin-bottom: 15px;
+ 	font-size: 22px;
+ }
+ .finger{
+ 	height: 130px;
+ 	display: inline-block;
+ 	vertical-align: top;
+ 	margin-bottom: 25px;
+ 
+ }
+ .mobile{
+ 	height: 130px;
+ 	display: inline-block;
+    vertical-align: top;
+    margin-bottom: 25px;
+ }
+ .text{
+ 	display: inline-block;
+ 	width: 340px;
+ 	margin-left: 60px;
+ 	font-size: 20px;
+ }
+/*მთავარი გვერდის სტილები ==<<*/

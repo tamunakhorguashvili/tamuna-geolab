@@ -1,0 +1,12 @@
+@font-face{
+	font-family: "ninoBold";
+	src: url("../fonts/bpg_nino_mtavruli_bold_/bpg_nino_mtavruli_bold.ttf");
+}
+@font-face{
+   font-family: "ingiri";
+   src: url("../fonts/bpg_ingiri_arial/bpg_ingiri_arial.ttf");
+}
+@font-face{
+   font-family: "roboto";
+   src: url("../fonts/roboto/Roboto-Bold.ttf");
+}

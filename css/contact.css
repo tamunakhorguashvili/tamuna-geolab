@@ -1,0 +1,37 @@
+/*კონტაქტის გვერდის სტილები ==>>*/
+section{
+	width: 100%;
+	padding-top: 47px;
+	padding-left: 30px;
+	padding-bottom: 55px;
+	background-color: #E6E6E6;
+	position: relative;
+	margin-bottom: 35px;
+}
+.contact-text{
+	width: 280px;
+    position: absolute;
+}
+.map{
+	width: 874px;	
+	margin-left: 335px;
+}
+h1{
+	font-family: ninoBold;
+	font-size: 20px;
+	color: #3D58A6;
+}
+.contact-text.title{
+	color: #3D58A6;
+	font-family: ninoBold;
+	
+}
+.contact-li span{
+	color: #808080; 
+	margin-left: 30px;
+}
+.contact-li{
+	font-family: "ingiriarial";
+	color: #000000;
+}
+/*კონტაქტის გვერდის სტილები ==<<*/

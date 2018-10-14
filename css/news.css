@@ -1,0 +1,50 @@
+/*სიახლეების სტილები ==>>*/
+
+.banner-img{
+	width: 56px;
+}
+.news-li span{
+	color: #3D58A6;
+	font-size: 22px;
+} 
+h3{
+	font-size: 20px;
+	font-family: ninoBold;
+	margin-top: 30px;
+}
+.face{
+	width: 270px;
+	margin-top: 22px;
+	vertical-align: top;
+}
+.news-text{
+	width: 930px;
+	font-size: 16px;
+	font-family: ingiri;
+}
+p{
+	margin-left: 38px;
+	margin-top: 28px;
+    margin-right: 98px;
+}
+
+.banner-img2{
+	 width: 56px;
+	 margin-top: 42px;
+}
+.banner-img3{
+	 width: 56px;
+	 margin-top: 42px;
+	
+}
+.computer{
+	width: 270px;
+	margin-top: 22px;
+	vertical-align: top;
+}
+.simbol{
+	width: 270px;
+	margin-top: 22px;
+	vertical-align: top;
+}
+/*სიახლეების სტილები ==<<*/
